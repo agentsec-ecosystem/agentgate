@@ -2,6 +2,8 @@
 
 > **Block / limit** — MCP OAuth 2.1 authorization proxy that brokers agent access to MCP servers.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentgate/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentgate)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
